@@ -459,6 +459,8 @@ h4 {
     text-align: center;
     overflow-clip-margin: content-box;
     overflow: clip;
+    margin: 0; 
+    padding: 30px 20px;
   }
   #about .image img {
     background-image: url(./images/portrait2.jpg) !important;
